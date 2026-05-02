@@ -1,3 +1,7 @@
+
+markdown
+![Berramdane Model Result](images/DTQEM.jpg)
+
 # DTQEM-Negative-Time-Non-locality
 DTQEM: Negative Time &amp; Non-locality (Dual‑Time Quantum Entanglement Model)
 # DTQEM: Negative Time & Non‑locality
